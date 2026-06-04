@@ -37,7 +37,6 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/CPP-555555?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/MFC-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
 </p>
