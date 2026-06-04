@@ -39,6 +39,15 @@
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/MFC-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+<img src="https://img.shields.io/badge/Win32_API-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Socket_Programming-FF6F00?style=for-the-badge&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/Operating_Systems-6DB33F?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Multithreading-FF4088?style=for-the-badge&logo=apachekafka&logoColor=white" />
+
+<br/>
 </p>
 ---
 
