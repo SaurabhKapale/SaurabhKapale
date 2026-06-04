@@ -22,7 +22,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/pawan-dhekwar">
+  <a href="https://linkedin.com/in/saurabh-kapale">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:KapaleSaurabh07@gmail.com">
